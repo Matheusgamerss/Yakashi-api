@@ -1,0 +1,5 @@
+🔗 API desenvolvida por: Dantes
+🖥️ Infraestrutura fornecida por: Nex Carisys
+📜 Licença: Esta API é gratuita para todos os usuários.
+⚠️ Aviso: Embora seja gratuita, abusos podem resultar em bloqueio de acesso.
+💡 Contato: Para suporte ou dúvidas, acesse o site do desenvolvedor.
