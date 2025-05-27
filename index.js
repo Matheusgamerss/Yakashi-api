@@ -1,7 +1,7 @@
 /*
-🔹 Criado por: @Nuken
-🔹 Provedor de Serviços: Nex Carisys
-🔹 Site Do Provedor: https://carisys.online/
+🔹 Criado por: @Dev_Matheus
+🔹 Provedor de Serviços: Yakashi api
+🔹 Site Do Provedor: https://yakashiapi.shop/
 🔹 Copyright © 2025 - Todos os direitos reservados.
 🔹 Licença: Uso livre e gratuito para todos os usuários.
 */
